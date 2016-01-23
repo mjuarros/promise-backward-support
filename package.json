@@ -1,0 +1,14 @@
+{
+  "name": "Promise-Backward-Support",
+  "version": "1.0.0",
+  "description": "How to use promises with backward support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "promises"
+  ],
+  "author": "Mario Juarros <mario.juarros@gmail.com>",
+  "license": "ISC"
+}
